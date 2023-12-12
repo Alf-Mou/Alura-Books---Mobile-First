@@ -2,9 +2,15 @@
 
 :root{
     --cor-de-fundo: #EBECEE;
-    --branco: #ffffff
+    --branco: #FFFFFF;
+    --laranja: #EB9B00;
+    --azul: #002F52;
+    --fonte-principal: "Poppins";
 }
 
 body {
     background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
