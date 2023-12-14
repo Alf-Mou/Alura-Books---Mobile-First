@@ -71,5 +71,8 @@
     text-decoration: none;
     color: var(--branco);
     font-weight: 700;
+}
 
+.descricao__estrelas{
+    margin-bottom: 0.5625em;
 }
